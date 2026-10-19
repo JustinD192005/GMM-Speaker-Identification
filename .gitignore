@@ -1,0 +1,13 @@
+# Audio recordings are not committed (size and privacy)
+*.wav
+*.mp3
+*.flac
+*.zip
+data/
+spk0*/
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

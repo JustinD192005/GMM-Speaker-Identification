@@ -1,0 +1,11 @@
+# Speaker identification (GMM)
+numpy
+scipy
+soundfile
+scikit-learn
+pandas
+matplotlib
+joblib
+
+# Dataset recording
+sounddevice

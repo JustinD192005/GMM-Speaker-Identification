@@ -1,0 +1,15 @@
+spk01: 550 file(s), 35.7 min total, 18.1 min of speech  (16s)
+spk02: 501 file(s), 53.7 min total, 18.4 min of speech  (12s)
+spk03: 1 file(s), 41.7 min total, 25.6 min of speech  (9s)
+spk04: 1 file(s), 49.3 min total, 25.5 min of speech  (14s)
+
+Average speech per sentence: 2.09 s
+Training conditions (seconds of speech per speaker):
+   10 sent. (21 s)
+   30 sent. (63 s)
+   100 sent. (209 s)
+   500 sent. (capped: 904 s ≈ 434 sent.)
+Test clips of 0.5 s: 1440 (360 per speaker)
+Test clips of 1 s: 720 (180 per speaker)
+Test clips of 2 s: 360 (90 per speaker)
+Test clips of 3 s: 240 (60 per speaker)
